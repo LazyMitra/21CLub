@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: NightDelivery;
-    src: url(/Fontovi/nightdeliverydemo-regular-webfont.woff );
+    src: url(./Fontovi/nightdeliverydemo-regular-webfont.woff );
   }
   @font-face {
     font-family: VeeWithAMarker;
-    src: url(/Fontovi/VeeWithAMarker-Regular.woff );
+    src: url(./Fontovi/VeeWithAMarker-Regular.woff );
   }
 
 *{
